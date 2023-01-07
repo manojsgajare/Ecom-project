@@ -27,11 +27,11 @@
 }
 
 .nav .nav-search {
-    margin-top: 5px;
-    flex: 1;
-    display: flex;
-    margin-left: 5%;
-    margin-right: 5%;
+  margin-top: 5px;
+  flex: 1;
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .nav .nav-search input {
