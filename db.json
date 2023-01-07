@@ -2,45 +2,9 @@
   "seller": [
     {
       "name": "aman",
-      "password": "abc123",
-      "email": "abc123@gmail.com",
+      "password": "aman123",
+      "email": "aman123@gmail.com",
       "id": 1
-    },
-    {
-      "name": "aaa",
-      "password": "demouser",
-      "email": "aaa@gmail.com",
-      "id": 2
-    },
-    {
-      "name": "aaa",
-      "password": "demouser",
-      "email": "aaa@gmail.com",
-      "id": 3
-    },
-    {
-      "name": "bbbb",
-      "password": "demouser",
-      "email": "aaa@gmail.com",
-      "id": 4
-    },
-    {
-      "name": "peter",
-      "password": "peter",
-      "email": "peter@gmail.com",
-      "id": 5
-    },
-    {
-      "name": "sss",
-      "password": "sss",
-      "email": "sss",
-      "id": 6
-    },
-    {
-      "name": "ddd",
-      "password": "ddd",
-      "email": "ddd",
-      "id": 7
     }
   ]
 }
