@@ -1,19 +1,40 @@
-.sign-up {
-    text-align: center;
-    bottom: 20px;
-    color: blueviolet;
-    margin-top: 10%;
-    border: 1px solid blueviolet;
-    border-radius: 50px;
-    height: 500px;
-    /* align-items: center; */
-    margin-left: 20%;
-    margin-right: 20%;
+.sign-up,
+.login {
+  text-align: center;
+  bottom: 20px;
+  color: blueviolet;
+  margin-top: 10%;
+  border: 1px solid blueviolet;
+  border-radius: 50px;
+  height: 500px;
+  /* align-items: center; */
+  margin-left: 20%;
+  margin-right: 20%;
 }
-    
-#forminput{
-    align-items: left;
-    text-align: left;
-    color: black;
+
+#forminput {
+  align-items: left;
+  text-align: left;
+  color: black;
+  font-size: 14px;
 }
-    
+
+.auth-toggle-link {
+  margin-top: 20px;
+  color: blueviolet;
+  font-size: 14px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.auth-toggle-link .log {
+  color: red;
+}
+
+.auth-toggle-link .log:hover {
+  color: red;
+  font-family: Arial;
+  font-size: 1.5em;
+
+  /* background-color: yellow; */
+}

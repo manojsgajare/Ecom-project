@@ -7,10 +7,16 @@
       "id": 1
     },
     {
-      "name": "manoj",
-      "password": "manoj",
-      "email": "manoj@gmail.com",
+      "name": "bhushan",
+      "email": "bhushan@theschoolguard.com",
+      "password": "demouser",
       "id": 2
+    },
+    {
+      "name": "",
+      "email": "bhushan@theschoolguard.com",
+      "password": "demouser",
+      "id": 3
     }
   ]
 }
