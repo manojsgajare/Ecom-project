@@ -24,5 +24,31 @@
       "password": "demouser",
       "id": 4
     }
+  ],
+  "products": [
+    {
+      "name": "Iphone-14",
+      "price": 1000000,
+      "category": "mobiles",
+      "description": "mobile phone",
+      "image": "https://images.unsplash.com/photo-1663408466313-2d4e7edaf172?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "id": 1
+    },
+    {
+      "name": "samsung UI",
+      "price": 150000,
+      "category": "mobile",
+      "description": "Samsung product",
+      "image": "https://images.unsplash.com/photo-1618478594486-c65b899c4936?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "id": 2
+    },
+    {
+      "name": "MOTOROLA G32 (Mineral Gray, 64 GB)  (4 GB RAM)",
+      "price": 9999,
+      "category": "motorola",
+      "description": "4 GB RAM | 64 GB ROM\n16.64 cm (6.55 inch) Full HD+ Display\n50MP + 8MP + 2MP | 16MP Front Camera\n5000 mAh Lithium Polymer Battery\nQualcomm Snapdragon 680 Processor",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/l/l/z/-original-imaggvfzzt7qhhax.jpeg?q=70",
+      "id": 3
+    }
   ]
 }

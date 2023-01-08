@@ -1,5 +1,6 @@
 <div class="add-product">
   <h1>Add New Product</h1>
+  <p class="message-p">{{addProductMessage}}</p>
   <form
     class="common-form"
     #addProduct="ngForm"
@@ -17,7 +18,7 @@
     <label id="forminput">Price</label>
     <input
       class="form-input"
-      type="text"
+      type="number"
       name="price"
       ngModel
       placeholder="Enter price"
