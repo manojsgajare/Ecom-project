@@ -17,6 +17,12 @@
       "email": "bhushan@theschoolguard.com",
       "password": "demouser",
       "id": 3
+    },
+    {
+      "name": "",
+      "email": "bhushan@theschoolguard.com",
+      "password": "demouser",
+      "id": 4
     }
   ]
 }
