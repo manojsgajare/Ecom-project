@@ -7,7 +7,7 @@ import { SellerHomeComponent } from './seller-home/seller-home.component';
 
 const routes: Routes = [
   {
-    path: '/',
+    path: 'home',
     component: HomeComponent,
   },
   {
