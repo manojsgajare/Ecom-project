@@ -1,0 +1,26 @@
+.container {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+}
+
+table {
+  text-align: left;
+  color: black;
+  border-collapse: collapse;
+  font-size: 50%;
+  font-size: 20px;
+}
+
+table td,
+table th {
+  border: 1px solid rgb(227, 17, 17);
+  padding: 1%;
+  min-height: 10%;
+  width: 50%;
+}
+
+img {
+  width: 80px;
+  height: 100px;
+}
