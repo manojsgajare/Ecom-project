@@ -35,12 +35,60 @@
       "id": 1
     },
     {
-      "name": "samsung UI",
-      "price": 150000,
+      "name": "MOTOROLA G32 (",
+      "price": 9999,
       "category": "mobile",
-      "description": "Samsung product",
-      "image": "https://images.unsplash.com/photo-1618478594486-c65b899c4936?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "description": "4 GB RAM | 64 GB ROM\n16.64 cm (6.55 inch) Full HD+ Display\n50MP + 8MP + 2MP | 16MP Front Camera\n5000 mAh Lithium Polymer Battery\nQualcomm Snapdragon 680 Processor",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/l/l/z/-original-imaggvfzzt7qhhax.jpeg?q=70",
       "id": 2
+    },
+    {
+      "name": "POCO C31",
+      "price": 757575,
+      "category": "mobile",
+      "description": "\n16.59 cm (6.53 inch) HD+ Display\n13MP + 2MP + 2MP | 5MP Front Camera\n5000 mAh Lithium-ion Polymer Battery\nMediaTek Helio G35 Processor",
+      "image": "https://rukminim1.flixcart.com/image/416/416/ku4ezrk0/mobile/7/p/l/c31-mzb0a0min-poco-original-imag7bzq2zv8xvsw.jpeg?q=70",
+      "id": 3
+    },
+    {
+      "name": "POCO C31",
+      "price": 757575,
+      "category": "mobile",
+      "description": "\n16.59 cm (6.53 inch) HD+ Display\n13MP + 2MP + 2MP | 5MP Front Camera\n5000 mAh Lithium-ion Polymer Battery\nMediaTek Helio G35 Processor",
+      "image": "https://rukminim1.flixcart.com/image/416/416/ku4ezrk0/mobile/7/p/l/c31-mzb0a0min-poco-original-imag7bzq2zv8xvsw.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "name": "POCO C31",
+      "price": 757575,
+      "category": "mobile",
+      "description": "\n16.59 cm (6.53 inch) HD+ Display\n13MP + 2MP + 2MP | 5MP Front Camera\n5000 mAh Lithium-ion Polymer Battery\nMediaTek Helio G35 Processor",
+      "image": "https://rukminim1.flixcart.com/image/416/416/ku4ezrk0/mobile/7/p/l/c31-mzb0a0min-poco-original-imag7bzq2zv8xvsw.jpeg?q=70",
+      "id": 5
+    },
+    {
+      "name": "POCO C31",
+      "price": 757575,
+      "category": "mobile",
+      "description": "\n16.59 cm (6.53 inch) HD+ Display\n13MP + 2MP + 2MP | 5MP Front Camera\n5000 mAh Lithium-ion Polymer Battery\nMediaTek Helio G35 Processor",
+      "image": "https://rukminim1.flixcart.com/image/416/416/ku4ezrk0/mobile/7/p/l/c31-mzb0a0min-poco-original-imag7bzq2zv8xvsw.jpeg?q=70",
+      "id": 6
+    },
+    {
+      "name": "POCO C31",
+      "price": 757575,
+      "category": "mobile",
+      "description": "\n16.59 cm (6.53 inch) HD+ Display\n13MP + 2MP + 2MP | 5MP Front Camera\n5000 mAh Lithium-ion Polymer Battery\nMediaTek Helio G35 Processor",
+      "image": "https://rukminim1.flixcart.com/image/416/416/ku4ezrk0/mobile/7/p/l/c31-mzb0a0min-poco-original-imag7bzq2zv8xvsw.jpeg?q=70",
+      "id": 7
+    },
+    {
+      "name": "POCO C31",
+      "price": 757575,
+      "category": "mobile",
+      "description": "\n16.59 cm (6.53 inch) HD+ Display\n13MP + 2MP + 2MP | 5MP Front Camera\n5000 mAh Lithium-ion Polymer Battery\nMediaTek Helio G35 Processor",
+      "image": "https://rukminim1.flixcart.com/image/416/416/ku4ezrk0/mobile/7/p/l/c31-mzb0a0min-poco-original-imag7bzq2zv8xvsw.jpeg?q=70",
+      "id": 8
     }
   ]
 }
