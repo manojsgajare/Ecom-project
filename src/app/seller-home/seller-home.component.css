@@ -5,7 +5,7 @@
 }
 
 table {
-  text-align: left;
+  text-align: center;
   color: black;
   border-collapse: collapse;
   font-size: 50%;
@@ -15,14 +15,19 @@ table {
 table td,
 table th {
   border: 1px solid blueviolet;
-  padding: 1%;
+  padding: 2%;
   min-height: 10%;
-  width: 50%;
+  /* width: 50%; */
+}
+
+#item-img{
+  min-width: 10%;
 }
 
 img {
-  width: 80px;
-  height: 100px;
+  width: 40px;
+  height: 40px;
+  padding: 5%;
 }
 
 #icon {
@@ -31,4 +36,8 @@ img {
 
 #icon:hover {
   color: red;
+}
+
+.update-link {
+  margin-right: 10px;
 }
