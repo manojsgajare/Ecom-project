@@ -1,10 +1,14 @@
 .nav {
   display: flex;
   justify-content: space-between;
-  background-color: rgb(4, 5, 20);
+  background-color: #072f45;
   height: 10px;
   align-items: center;
   padding: 2%;
+  background: -webkit-linear-gradient(to right, #021e2d, #159ce4);
+  /* Chrome 10-25, Safari 5.1-6 */
+ background: linear-gradient(to right, #031f2e, #1883bd); 
+
 }
 
 .nav h1 {
@@ -26,8 +30,10 @@
 }
 
 .nav li a {
-  color: rgb(171, 64, 207);
+  color: rgb(217, 33, 174);
   text-decoration: none;
+  font-size: 20px;
+  font-weight: 100;
 }
 
 .nav .nav-search {

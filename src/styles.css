@@ -1,7 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
 body {
+  color: white;
   font-family: sans-serif;
   margin: 0%;
+  background-color: #072f45;
+  /* background-color: #072f45; */
+    background: #072f45;
+    /* fallback for old browsers */
+    /* background: -webkit-linear-gradient(to right, #072f45, #072f45);
+    /* Chrome 10-25, Safari 5.1-6 */
+  /* background: linear-gradient(to right, #072f45, #044568);  */
+
+   background: -webkit-linear-gradient(to right, #021e2d, #159ce4);
+    /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #031f2e, #1883bd); 
 }
 
 .container {

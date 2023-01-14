@@ -2,21 +2,26 @@
   margin-left: 5%;
   margin-right: 5%;
   margin-top: 5%;
+  color: white;
 }
 
 table {
-  text-align: center;
-  color: black;
+
+  color: rgb(250, 244, 244);
   border-collapse: collapse;
-  font-size: 50%;
   font-size: 20px;
+  font-style: normal;
+  font-weight: 0.1px;
+  font-family: 'Times New Roman', Times, serif;
+  width: 100%;
 }
 
 table td,
 table th {
   border: 1px solid blueviolet;
-  padding: 2%;
+  padding: 8px;
   min-height: 10%;
+  text-align: center;
   /* width: 50%; */
 }
 
@@ -25,8 +30,8 @@ table th {
 }
 
 img {
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 80px;
   padding: 5%;
 }
 
